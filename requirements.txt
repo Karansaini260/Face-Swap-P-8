@@ -4,6 +4,6 @@ opencv-python-headless
 Flask
 Pillow
 gunicorn
-retinaface
+retina-face
 tf-keras 
 tensorflow
