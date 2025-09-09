@@ -1,6 +1,8 @@
-dlib
+# dlib
 numpy
 opencv-python-headless
 Flask
 Pillow
 gunicorn
+retinaface
+tf-keras 
